@@ -1,0 +1,2 @@
+ip,device_type,fast_cli
+192.168.99.250,aruba_procurve,TRUE
