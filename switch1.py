@@ -24,4 +24,3 @@ for host in hosts.values.tolist():
     #     result_config_file_name = f'./result_config/{net_connect.find_prompt().replace("#","")}.txt'
     #     process_definition.write_config_from_switch(net_connect, result_config_file_name)
     #     net_connect.disconnect()
-    #     net_connect.disconnect()
